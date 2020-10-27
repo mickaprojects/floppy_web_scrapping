@@ -1,0 +1,20 @@
+
+
+INSERT INTO table_agence_atraiter (title_agence, adresse, cle, flag, idenr, date_saisie) VALUES ('Sorimo - Bruxelles ', '1932 Zaventem - ...', 'SORIMOBRUXELLES1932ZAVENTEM', 'n', 47, '2018-12-18 17:30:51.138');
+
+
+--
+-- TOC entry 2214 (class 0 OID 0)
+-- Dependencies: 255
+-- Name: table_agence_atraiter_idenr_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('table_agence_atraiter_idenr_seq', 337, true);
+
+
+-- Completed on 2019-02-27 18:22:50
+
+--
+-- PostgreSQL database dump complete
+--
+

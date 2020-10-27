@@ -1,0 +1,1 @@
+categorie	bien	texte	surface	chambre	description	title_agence	ref_agence	immoweb_code	tel	mobile	disponibilite	cp	ville	prix	lien_photo	page

@@ -1,0 +1,5 @@
+categorie	bien	texte	surface	chambre	description	title_agence	ref_agence	immoweb_code	tel	mobile	disponibilite	cp	ville	prix	lien_photo	page
+construire	maison		169	3 	Toutes nos maisons sont équipées d'un système de ventilation ...	Team Construct 	MARINA	4772650	+32 (0)2 556 47 56		Tout le temps (TEL)			189.348	https://static.immoweb.be/photos/0/4/7/7/2/6/5/0/4772650_1.jpg?cache=20140122145340	1
+construire	maison		172	3 	MG 173	Maisons Gabriel 	MG 173	4706520	0800 11 088		Tout le temps (TEL)			145.425		1
+construire	maison		194	4 	La villa Euro est élégante et contemporaine. La façade très ...	Team Construct 	EURO 194	4440451	+32 (0)2 556 47 56		Tout le temps (TEL)			200.374		1
+construire	maison		133	3 	Notre villa "LIBERTY" vous fera apprécier le confort d'une villa ...	Team Construct 	LIBERTY	4696498	+32 (0)2 556 47 56		Tout le temps (TEL)			173.292		1

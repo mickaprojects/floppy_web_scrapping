@@ -1,0 +1,12 @@
+** recup_liste_agence: ligne 371 à activer pour petit écran
+
+** 28/02/2019: ajout
+        date_=datetime.datetime.now().strftime("%Y%m%d %H%M%S")
+        date2_=datetime.datetime.now().strftime("%Y%m%d")
+
+
+            if z==1:
+                rep=rep+"\\"+date2_
+                if(os.access(rep,os.F_OK)==False):
+                    os.makedirs(rep,777)
+

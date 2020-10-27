@@ -1,0 +1,25 @@
+-- Table: table_recup_liste_a_vendre
+DROP TABLE table_recup_liste_a_vendre;
+
+CREATE TABLE table_recup_liste_a_vendre
+(
+
+categorie  character varying,
+bien  character varying,
+designation  character varying,
+
+href  character varying,
+lien_photo  character varying,
+page character varying,
+
+   
+  traite character varying(1) DEFAULT 'n'::character varying,
+  idenr serial NOT NULL,
+  date_saisie timestamp without time zone DEFAULT ('now'::text)::timestamp without time zone,
+  CONSTRAINT pk_table_recup_liste_a_vendre PRIMARY KEY (idenr)
+)
+WITH (
+  OIDS=TRUE
+);
+ALTER TABLE table_recup_liste_a_vendre
+  OWNER TO postgres;
